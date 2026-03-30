@@ -1,0 +1,42 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#beginner",
+      "color": {"a": 1, "rgb": 4177929}
+    },
+    {
+      "query": "tag:#intermediate",
+      "color": {"a": 1, "rgb": 16750848}
+    },
+    {
+      "query": "tag:#advanced",
+      "color": {"a": 1, "rgb": 16711680}
+    },
+    {
+      "query": "tag:#interview",
+      "color": {"a": 1, "rgb": 9699539}
+    },
+    {
+      "query": "tag:#project",
+      "color": {"a": 1, "rgb": 255}
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 1
+}
