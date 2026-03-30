@@ -61,13 +61,13 @@ ARM does NOT manufacture chips. ARM **licenses** its intellectual property.
        │ License
        ▼
 ┌──────────────────────────────────────────────────────┐
-│  Chip Manufacturers (Licensees)                       │
+│  Chip Manufacturers (Licensees)                      │
 │  ST Microelectronics → STM32 (Cortex-M)              │
-│  NXP → i.MX, LPC (Cortex-M, Cortex-A)               │
-│  Texas Instruments → Tiva, OMAP                       │
-│  Apple → A-series chips (custom ARM core)             │
-│  Qualcomm → Snapdragon (custom ARM core)              │
-│  Samsung → Exynos (custom ARM core)                   │
+│  NXP → i.MX, LPC (Cortex-M, Cortex-A)                │
+│  Texas Instruments → Tiva, OMAP                      │
+│  Apple → A-series chips (custom ARM core)            │
+│  Qualcomm → Snapdragon (custom ARM core)             │
+│  Samsung → Exynos (custom ARM core)                  │
 └──────────────────────────────────────────────────────┘
 ```
 

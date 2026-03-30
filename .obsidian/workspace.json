@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "803ca9965810b352",
+    "type": "split",
+    "children": [
+      {
+        "id": "cae3c662b45993bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c57ec869c986a00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Roadmap/Learning_Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning_Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebf23b279c1b3f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a841f1046577af5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7abb60eb37e2c43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c2a4678945c11a75",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ce13466afbbb2dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "912904db3bb67a97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b670db09bde2c5c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e16cb3a86dc5f871",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_Roadmap/Learning_Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Learning_Roadmap"
+            }
+          },
+          {
+            "id": "c0b0f4eda8d77326",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_Roadmap/Learning_Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Learning_Roadmap"
+            }
+          },
+          {
+            "id": "d96ce3975364a9f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de7a26e09f618545",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c0041eb80c6ee710",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Roadmap/Learning_Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Learning_Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c57ec869c986a00d",
+  "lastOpenFiles": [
+    "01_Foundations/Number_Systems/Binary_Hex_Decimal.md",
+    "00_Roadmap/Learning_Roadmap.md",
+    "01_Foundations/CPU_Basics/Fetch_Decode_Execute.md",
+    "_Dashboard/🏠 ARM Mastery Vault Home.md",
+    "01_Foundations/CPU_Basics/What_Is_A_CPU.md",
+    "Fetch_Decode_Execute.md",
+    "02_ARM_Architecture/History_Evolution/ARM_History_and_Evolution.md",
+    "_Templates/Note_Template.md",
+    "01_Foundations/MOC_Foundations.md",
+    "05_Cortex_M_Deep_Dive/MOC_CortexM.md",
+    "05_Cortex_M_Deep_Dive/NVIC/NVIC_Deep_Dive.md",
+    "related_note_1.md"
+  ]
+}

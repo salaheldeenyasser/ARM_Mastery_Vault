@@ -19,7 +19,7 @@ This roadmap is **progressive by design**. Each stage unlocks the next. Do not s
 **Goal:** Understand what ARM is, why it matters, and how a CPU/microcontroller actually works.
 
 **Week 1–2: Foundations**
-- [ ] [[01_Foundations/CPU_Basics/What_Is_A_CPU|What is a CPU?]]
+- [x] [[01_Foundations/CPU_Basics/What_Is_A_CPU|What is a CPU?]]
 - [ ] [[01_Foundations/CPU_Basics/Von_Neumann_vs_Harvard|Von Neumann vs Harvard Architecture]]
 - [ ] [[01_Foundations/CPU_Basics/Fetch_Decode_Execute|Fetch-Decode-Execute Cycle]]
 - [ ] [[01_Foundations/Number_Systems/Binary_Hex_Decimal|Binary, Hex & Decimal Systems]]

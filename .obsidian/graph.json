@@ -9,23 +9,38 @@
   "colorGroups": [
     {
       "query": "tag:#beginner",
-      "color": {"a": 1, "rgb": 4177929}
+      "color": {
+        "a": 1,
+        "rgb": 4177929
+      }
     },
     {
       "query": "tag:#intermediate",
-      "color": {"a": 1, "rgb": 16750848}
+      "color": {
+        "a": 1,
+        "rgb": 16750848
+      }
     },
     {
       "query": "tag:#advanced",
-      "color": {"a": 1, "rgb": 16711680}
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     },
     {
       "query": "tag:#interview",
-      "color": {"a": 1, "rgb": 9699539}
+      "color": {
+        "a": 1,
+        "rgb": 9699539
+      }
     },
     {
       "query": "tag:#project",
-      "color": {"a": 1, "rgb": 255}
+      "color": {
+        "a": 1,
+        "rgb": 255
+      }
     }
   ],
   "collapse-display": false,
@@ -38,5 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1
+  "scale": 0.2532471922509655,
+  "close": false
 }
